@@ -4,3 +4,5 @@ welcome to my hourse
 测试git追踪文件的修改,而不是文件本身
 
 新添加内容用来测试git怎么来合并
+
+Creating n new branch is quick
