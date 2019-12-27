@@ -5,4 +5,8 @@ welcome to my hourse
 
 新添加内容用来测试git怎么来合并
 
-Creating n new branch is quick & simple
+<<<<<<< HEAD
+Creating n new branch is quick and simple
+=======
+Creating n new branch is quick AND simple.
+>>>>>>> featurel
