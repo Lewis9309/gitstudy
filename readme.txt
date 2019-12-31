@@ -5,4 +5,4 @@ welcome to my hourse
 
 新添加内容用来测试git怎么来合并
 
-Creating a new branch is quick
+Creating a new branch is quick & simple
